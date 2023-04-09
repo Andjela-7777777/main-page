@@ -1,0 +1,172 @@
+h1{
+    font-family:'Oswald', Open Sans, Рубик;
+}
+p{
+    font-family:'Oswald', Open Sans, Рубик;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo-ah{
+    padding-top: 10px;
+}
+.auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.width-home{
+    width: 1345px;
+}
+.height-logo{
+    height: 75px;
+}
+.body{
+    height: 1000px;
+}
+.border-logo{
+    border-top: 1px solid #3d61f2;
+}
+.logo{
+    background-color: ;
+    display: flex;
+}
+.logo-home{
+    width: 800px;
+    display: flex;
+}
+.logo-div{
+    width: 75px;
+}
+.logo-img{
+    width: 50px;
+    padding-top: 18px;
+}
+.logo-name{
+    width: 160px;
+}
+.logo-name-img{
+    width: 160px;
+    background-size: 100% 100%;
+}
+.logo-text{
+    font-size: 60px;
+    color: black;
+}
+.logo-div-1{
+    width: 180px;
+    text-align: center;
+    background-color: #0454bd;
+}
+.logo-div-1:hover{
+    background-color: #0454bd;
+}
+.logo-div-2{
+    width: 180px;
+    text-align: center;
+}
+.logo-div-2:hover{
+    background-color: #0454bd;
+}
+.logo-ahreh{
+    font-size: 30px;
+    text-decoration: none;
+}
+.logo-premium{
+    width: 300px;
+}
+.logo-user{
+    width: 245px;
+    text-align: center;
+}
+.logo-ahreh{
+    text-decoration: none;
+}
+.logo-ahreh:hover{
+    color: white;
+    text-decoration: none;
+}
+.button-premium{
+    width: 300px;
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+    background-position: right center;
+}
+.sections{
+    height: 70px;
+    display: flex;
+    background-color: #3d61f2;
+}
+.sections-1{
+    height: 70px;
+    width: 440px;
+    text-align: center;
+}
+.sections-2{
+    height: 70px;
+    width: 465px;
+    text-align: center;
+}
+.sections-3{
+    height: 70px;
+    width: 440px;
+    text-align: center;
+}
+.sections-ahreh{
+    text-decoration: none;
+    font-size: 30px;
+}
+.content{
+    height: 700px;
+    display: flex;
+}
+.content-left{
+    height: 700px;
+    width: 700px;
+    background-color: blue;
+}
+.content-right{
+    height: 700px;
+    width: 790px;
+}
+.scale{
+    transition: 1s;                             /* Время эффекта */
+}
+.scale:hover {
+    transform: scale(1.2);                     /* Увеличиваем масштаб */
+}
+.aldan-img{
+    background-size: 100% 100%;
+}
+.aldan-text-div{
+    height: 60px; 
+    width: 700px; 
+    background-color: red;
+}
+.aldan-text{
+    font-size: 30px;
+    color: ;
+}
+.aldan-graf{
+    width: 700px;
+    height: 300px;
+    background-color: orange;
+}
+.aldan-graf-x{
+    width: 500px; 
+    height: 300px;
+    background-color: blue;
+        margin-left: auto;
+    margin-right: auto;
+}
